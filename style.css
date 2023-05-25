@@ -4,21 +4,22 @@
 }
 
 body {
-    background-image: url("./img/jornal.jpg");
+    background-color: #415a77;
     /* background: no-repeat; */
     
 }
 
 .container {
 
-    background-color: aliceblue;
+    background-color: #e0e1dd;
     border-radius: 12px;
-    height: 50rem;
-    margin-top: 30px;
+    height: 80%;
+    margin-top: 50px;
     /* margin: auto; */
     width: 50%;
     max-width: 850px;
     padding: 30px;
+    margin-left: 29rem;
 }
 
 .title {
